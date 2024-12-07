@@ -1,0 +1,38 @@
+%platform
+win32
+%date
+2024/12/6
+%note
+HSP3 user package information.
+%link
+https://sites.google.com/view/isotope6301/index
+
+
+%index
+u983_mod_sadv
+ADV/ノベルゲーム作成モジュール SimpleADV_Module
+%group
+addon
+%type
+プラグイン・システム
+%author
+あいそとーぷ
+%inst
+ADVゲーム/ノベルゲームを作るためのモジュールです。
+まだ製作途中ですがよろしくお願いします。
+%last
+2024/12/06
+%base
+hsp36,hsp37
+%license
+作品別に指定がなければMITライセンスです。
+
+The MIT License　( https://licenses.opensource.jp/MIT/MIT.html )
+Copyright (c) 2024 isotope6301/あいそとーぷ
+
+
+
+%sha256
+u983_mod_sadv.zip:88f625322338763b70273b9403704d057626fb9f67e8d98530ce19d9b3d72d4a
+
+
